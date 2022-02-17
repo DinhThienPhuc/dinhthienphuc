@@ -1,5 +1,6 @@
-### Hi there 👋
----
+## Hi there 👾👾👾
+
+
 <a href=https://www.linkedin.com/in/đinh-thiên-phúc-1173821a5/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 <img src="https://komarev.com/ghpvc/?username=DinhThienPhuc&color=blue">
 
@@ -22,4 +23,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhThienPhuc&theme=vue-dark&layout=compact&langs_count=5">
 
-### Project: ⬇ 
+### Projects: ⬇ 
