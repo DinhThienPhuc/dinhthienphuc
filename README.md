@@ -4,7 +4,7 @@
 <a href=https://www.linkedin.com/in/đinh-thiên-phúc-1173821a5/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 <img src="https://komarev.com/ghpvc/?username=DinhThienPhuc&color=blue">
 
-- 🔭 I’m working on CMC Global, Hanoi, Vietnam
+- 🔭 I’m working on Niteco, Hanoi, Vietnam
 - 📘 I'm studying CS in **https://github.com/ossu/computer-science**
 
 ### Programming languages:
