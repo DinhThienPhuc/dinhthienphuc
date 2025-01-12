@@ -1,16 +1,16 @@
-<h2 style="text-align: center">
+<h2 align="center">
   <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="" width="10%" style="vertical-align: middle;" />
   Hi! Let’s code, create, and collaborate on something extraordinary!
 </h2>
 
 <!-- Intro  -->
-<h3 style="text-align: center">
+<h3 align="center">
   <samp>&gt; Hey There!, I am
     <b><a target="_blank" href="https://dinhthienphuc.github.io/">Dinh Thien Phuc</a></b>
   </samp>
 </h3>
 
-<p style="text-align: center"> 
+<p align="center"> 
   <samp>
     「 I am a full-stack web developer from <b>Vietnam 🇻🇳</b> 」
   </samp>
@@ -126,9 +126,9 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/dinhthienphuc"> 
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhthienphuc&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhthienphuc&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
   </a>  
 </p>
 
